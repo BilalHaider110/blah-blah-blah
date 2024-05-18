@@ -1,0 +1,209 @@
+    1  git status
+    2  git in it
+    3  touch index.html
+    4  git status
+    5  git add -A
+    6  git status
+    7  git status
+    8  git in it
+    9  git status
+   10  touch index.html
+   11  git status
+   12  git add -A
+   13  git status
+   14  git commit
+   15  git status
+   16  git init
+   17  git status
+   18  touch index.html
+   19  git status
+   20  git add commit
+   21  git init
+   22  git status
+   23  touch index.html
+   24  git status
+   25  git add -A
+   26  status
+   27  git init
+   28  git status
+   29  touch index.html
+   30  git status
+   31  git add-A
+   32  git init
+   33  git status
+   34  git init
+   35  git status
+   36  touch index.html
+   37  git status
+   38  git add -A
+   39  git status
+   40  git commit
+   41  git status
+   42  code.
+   43  git init
+   44  git status
+   45  touch index.html
+   46  git status
+   47  git add -A
+   48  git status
+   49  git commit
+   50  git status
+   51  code .
+   52  git status
+   53  git commit
+   54  git add -A
+   55  git status
+   56  git init
+   57  git status
+   58  touch index.html
+   59  git add -A
+   60  git commit
+   61  git status
+   62  code .
+   63  git status
+   64  git add -A
+   65  git status
+   66  git commit
+   67  git status
+   68  git add -A
+   69  git status
+   70  git commit
+   71  git status
+   72  touch about.html
+   73  git status
+   74  git status
+   75  git add -A
+   76  git status
+   77  git commit
+   78  git status
+   79  clear
+   80  touch contact.html
+   81  git status
+   82  git add -A
+   83  git status
+   84  git commit -m "Done"
+   85  git status
+   86  clear
+   87  git log
+   88  git log -1
+   89  git log -2
+   90  git log -3
+   91  ls
+   92  git rm about.html
+   93  git status
+   94  git stash
+   95  git status
+   96  git diff
+   97  git status
+   98  git diff index.html
+   99  git status
+  100  diff body
+  101  git status
+  102  git status
+  103  git init
+  104  touch index.html
+  105  git status
+  106  code .
+  107  git add -A
+  108  git status
+  109  git commmit -m"continue"
+  110  git status
+  111  git init
+  112  git status
+  113  touch index.html
+  114  git status
+  115  git add -A
+  116  git init
+  117  touch index.html
+  118  git status
+  119  sit add -A
+  120  git init
+  121  git status
+  122  git add -A
+  123  git commit -m"continue"
+  124  git branch featureone
+  125  git status
+  126  git branch
+  127  git push -origin featureone
+  128  git branch
+  129  git remote origin
+  130  git status
+  131  git status
+  132  git init
+  133  git status
+  134  touch index.html
+  135  git status
+  136  git init
+  137  git status
+  138  touch index.html
+  139  git init
+  140  git add -A
+  141  git status3
+  142  git status
+  143  git init
+  144  git status
+  145  git init
+  146  git status
+  147  git add -A
+  148  git status
+  149  git commit -m"continue"
+  150  git status
+  151  git branch master
+  152  git branch
+  153  git remote add origin https://github.com/Muhammad-Hasnain-Ameen/gift-online.git
+  154  git push -u origin main
+  155  git push -u origin master
+  156  git init
+  157  git status
+  158  git add -A
+  159  git status
+  160  git commit
+  161  git init
+  162  git status
+  163  git add -A
+  164  git status
+  165  git commit -m"Done"
+  166  git status
+  167  git remote add origin https://github.com/Muhammad-Fahad-Arshad/GiftShop.git
+  168  git push -u origin main
+  169  git push -u origin master
+  170  .code
+  171  git .code
+  172  git --version
+  173  git config --global user.name"Bilal Haider110
+  174  git --version
+  175  git --version
+  176  git config--global user.name"BilalHaider110"
+  177   git config --global user.name"BilalHaider110"
+  178  git config --global user.name"BilalHaider110"
+  179  git config user.name
+  180  git --version
+  181  git config --global user.name"BilalHaider110"
+  182  git config user.name
+  183  git config --global user.email"bh7809869@gmail.com
+  184  git --version
+  185  git config --global user.name "BilalHaider"
+  186  Git config user.name
+  187  git --version
+  188  git config --global user.name "BilalHaider110"
+  189  git config user.name
+  190  git config --global user.email "bh7809869@gmail.com"
+  191  git config user.email
+  192  mkdir Practice
+  193  cd Practice
+  194  cd ..
+  195  touch index.html
+  196  touch style.css
+  197  touch file1.txt
+  198  touch script.js
+  199  git init
+  200  git --version
+  201  git status
+  202  git add
+  203  git add .
+  204  git status
+  205  git commit -m "I have compeleted the given task 70%" 
+  206  git log
+  207  git log > commitFirst.txt
+  208  history
+  209  history >> historyFirst.txt
